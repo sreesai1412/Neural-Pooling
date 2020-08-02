@@ -2,9 +2,9 @@
 
 This is the code for my IAS SRFP 2020 Report "Neural Pooling for Graph Neural Networks".
 
-The ``Neural-Pooling`` folder contains code.
-The ``Papers`` folder contains some papers referred.
-The ``Presentations`` folder contains Keynote presentations of each week.
+The ``Neural-Pooling`` folder contains code.<br/>
+The ``Papers`` folder contains some papers referred.<br/>
+The ``Presentations`` folder contains Keynote presentations of each week.<br/>
 
 ## System requirement
 
@@ -19,7 +19,9 @@ PyTorch > 1.0.0, tqdm, networkx, numpy
 
 ## Setup
 
-If you want to try our proposed Neural Pooling methods, copy the **graphcnn.py** file into the ``Neural-Pooling/models`` folder from either the ``Neural-Pooling/neural_pooling_1`` folder or the ``Neural-Pooling/neural_pooling_1`` folder.
+If you want to try our proposed Neural Pooling methods, copy the **graphcnn.py** file<br/>
+into the ``Neural-Pooling/models`` folder from either <br/>
+the ``Neural-Pooling/neural_pooling_1`` folder or the ``Neural-Pooling/neural_pooling_2`` folder.<br/>
 
 The **graphcnn.py** file currently in the ``Neural-Pooling/models`` folder contains code for SUM/AVG pooling.
 
