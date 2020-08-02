@@ -19,7 +19,7 @@ PyTorch > 1.0.0, tqdm, networkx, numpy
 
 ## Setup
 
-If you want to try our proposed Neural Pooling methods, copy the **graphcnn.py** file into the ``Neural-Pooling/models`` folder from either the             ``Neural-Pooling/neural_pooling_1`` folder or the ``Neural-Pooling/neural_pooling_1`` folder.
+If you want to try our proposed Neural Pooling methods, copy the **graphcnn.py** file into the ``Neural-Pooling/models`` folder from either the ``Neural-Pooling/neural_pooling_1`` folder or the ``Neural-Pooling/neural_pooling_1`` folder.
 
 The **graphcnn.py** file currently in the ``Neural-Pooling/models`` folder contains code for SUM/AVG pooling.
 
