@@ -1,6 +1,6 @@
 # Neural Pooling for Graph Neural Networks
 
-This is the code for my IAS SRFP 2020 Report "Neural Pooling for Graph Neural Networks".
+This is the code for my IAS SRFP 2020 Project "Neural Pooling for Graph Neural Networks".
 
 The ``Neural-Pooling`` folder contains code.<br/>
 The ``Papers`` folder contains some papers referred.<br/>
